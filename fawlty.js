@@ -4,7 +4,7 @@
  * Written By: Jay Harris
  * Date Written: 21/07/2015
  */
-var request = require.safe('request');
+var request = require('request');
 
 var quotes = [
     'Sybil Fawlty: [on the phone] I know... I know... I know... Oh, I know!\nBasil Fawlty: Then why is she telling you?',
